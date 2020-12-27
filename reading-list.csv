@@ -1,3 +1,4 @@
 "timestamp","url","author","date","description","image","title"
 1609037481682,"https://nicolasbouliane.com/blog/trading-time-for-money","Nicolas Bouliane","2020-12-24T23:21:51.000Z","Test","https://nicolasbouliane.com/images/_fullWidth2x/good-time.jpg","Trading time for money"
 1609042033535,"https://github.com/franky47/gitrows-test","franky47","2020-12-24T23:21:51.000Z","""Contribute, to franky47/gitrows-test development by creating an account on GitHub.""","https://avatars2.githubusercontent.com/u/1174092?s=400&v=4","franky47/gitrows-test"
+1609047679070,"https://francoisbest.com/posts/2020/the-security-of-github-actions","François Best","2020-02-24T00:00:00.000Z","GitHub Actions are a great way to build powerful customised CI/CD workflows using the power of community-driven resources, but they can be tricky to get right in terms of security.","https://francoisbest.com/images/posts/2020/the-security-of-github-actions/og.jpg","The Security of GitHub Actions"
