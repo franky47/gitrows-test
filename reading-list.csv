@@ -1,2 +1,3 @@
-timestamp,url,author,date,description,image,title
-1609037481682,https://nicolasbouliane.com/blog/trading-time-for-money,Nicolas Bouliane,2020-12-24T23:21:51.000Z,Test,https://nicolasbouliane.com/images/_fullWidth2x/good-time.jpg,Trading time for money
+"timestamp","url","author","date","description","image","title"
+1609037481682,"https://nicolasbouliane.com/blog/trading-time-for-money","Nicolas Bouliane","2020-12-24T23:21:51.000Z","Test","https://nicolasbouliane.com/images/_fullWidth2x/good-time.jpg","Trading time for money"
+1609042033535,"https://github.com/franky47/gitrows-test","franky47","2020-12-24T23:21:51.000Z","""Contribute, to franky47/gitrows-test development by creating an account on GitHub.""","https://avatars2.githubusercontent.com/u/1174092?s=400&v=4","franky47/gitrows-test"
